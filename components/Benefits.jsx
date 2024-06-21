@@ -59,7 +59,7 @@ const Benefits = () => {
           </h1>
           <div className=" space-y-24 mt-5">
             {benefit.map((item, index) => (
-              <div className="space-y-24">
+              <div key={index} className="space-y-24">
                 <div className="p-6">
                   <div
                     className={`md:flex items-center md:px-12 md:gap-x-10 ${

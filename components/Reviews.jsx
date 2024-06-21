@@ -16,7 +16,7 @@ const Reviews = () => {
       <div className="mx-auto py-20">
         <div className="p-6">
           <h1 className="reviews-heading text-center mb-8">
-            Trusted by the world's best professionals
+            Trusted by the world&apos;s best professionals
           </h1>
           <div className="reviews">
             <Swiper
@@ -37,7 +37,7 @@ const Reviews = () => {
                         sizes="100vw"
                         style={{ width: "100%", height: "auto" }}
                         src="/img_chad.png"
-                        alt=""
+                        alt="Review by Kanish Mohariya"
                       />
                     </div>
                     <div className="mt-4 md:hidden ps-5 md:ps-0 review-author">
@@ -50,12 +50,12 @@ const Reviews = () => {
                   </div>
                   <div className="review_content">
                     <div className="review_content-text">
-                      “Atlassian staff working at home have benefitted from the
-                      Krisp service since early in the pandemic. Since our Team
-                      Anywhere announcement, we have sought ways to make remote
-                      and hybrid working more effective, and Krisp's ability to
-                      screen background noise from calls and recordings has been
-                      invaluable to many staff."
+                      &ldquo;Atlassian staff working at home have benefitted
+                      from the Krisp service since early in the pandemic. Since
+                      our Team Anywhere announcement, we have sought ways to
+                      make remote and hybrid working more effective, and
+                      Krisp&apos;s ability to screen background noise from calls
+                      and recordings has been invaluable to many staff.&rdquo;
                     </div>
                     <div className="mt-4 md:block hidden">
                       <strong>Kanish Mohariya</strong>
@@ -77,7 +77,7 @@ const Reviews = () => {
                         sizes="100vw"
                         style={{ width: "100%", height: "auto" }}
                         src="/img_chad.png"
-                        alt=""
+                        alt="Review by Kanish Mohariya"
                       />
                     </div>
                     <div className="mt-4 md:hidden ps-5 md:ps-0 review-author">
@@ -90,12 +90,12 @@ const Reviews = () => {
                   </div>
                   <div className="review_content">
                     <div className="review_content-text">
-                      “Atlassian staff working at home have benefitted from the
-                      Krisp service since early in the pandemic. Since our Team
-                      Anywhere announcement, we have sought ways to make remote
-                      and hybrid working more effective, and Krisp's ability to
-                      screen background noise from calls and recordings has been
-                      invaluable to many staff."
+                      &ldquo;Atlassian staff working at home have benefitted
+                      from the Krisp service since early in the pandemic. Since
+                      our Team Anywhere announcement, we have sought ways to
+                      make remote and hybrid working more effective, and
+                      Krisp&apos;s ability to screen background noise from calls
+                      and recordings has been invaluable to many staff.&rdquo;
                     </div>
                     <div className="mt-4 md:block hidden">
                       <strong>Kanish Mohariya</strong>
@@ -117,7 +117,7 @@ const Reviews = () => {
                         sizes="100vw"
                         style={{ width: "100%", height: "auto" }}
                         src="/img_chad.png"
-                        alt=""
+                        alt="Review by Kanish Mohariya"
                       />
                     </div>
                     <div className="mt-4 md:hidden ps-5 md:ps-0 review-author">
@@ -130,12 +130,12 @@ const Reviews = () => {
                   </div>
                   <div className="review_content">
                     <div className="review_content-text">
-                      “Atlassian staff working at home have benefitted from the
-                      Krisp service since early in the pandemic. Since our Team
-                      Anywhere announcement, we have sought ways to make remote
-                      and hybrid working more effective, and Krisp's ability to
-                      screen background noise from calls and recordings has been
-                      invaluable to many staff."
+                      &ldquo;Atlassian staff working at home have benefitted
+                      from the Krisp service since early in the pandemic. Since
+                      our Team Anywhere announcement, we have sought ways to
+                      make remote and hybrid working more effective, and
+                      Krisp&apos;s ability to screen background noise from calls
+                      and recordings has been invaluable to many staff.&rdquo;
                     </div>
                     <div className="mt-4 md:block hidden">
                       <strong>Kanish Mohariya</strong>
@@ -157,7 +157,7 @@ const Reviews = () => {
                         sizes="100vw"
                         style={{ width: "100%", height: "auto" }}
                         src="/img_chad.png"
-                        alt=""
+                        alt="Review by Kanish Mohariya"
                       />
                     </div>
                     <div className="mt-4 md:hidden ps-5 md:ps-0 review-author">
@@ -170,12 +170,12 @@ const Reviews = () => {
                   </div>
                   <div className="review_content">
                     <div className="review_content-text">
-                      “Atlassian staff working at home have benefitted from the
-                      Krisp service since early in the pandemic. Since our Team
-                      Anywhere announcement, we have sought ways to make remote
-                      and hybrid working more effective, and Krisp's ability to
-                      screen background noise from calls and recordings has been
-                      invaluable to many staff."
+                      &ldquo;Atlassian staff working at home have benefitted
+                      from the Krisp service since early in the pandemic. Since
+                      our Team Anywhere announcement, we have sought ways to
+                      make remote and hybrid working more effective, and
+                      Krisp&apos;s ability to screen background noise from calls
+                      and recordings has been invaluable to many staff.&rdquo;
                     </div>
                     <div className="mt-4 md:block hidden">
                       <strong>Kanish Mohariya</strong>
@@ -197,7 +197,7 @@ const Reviews = () => {
                         sizes="100vw"
                         style={{ width: "100%", height: "auto" }}
                         src="/img_chad.png"
-                        alt=""
+                        alt="Review by Kanish Mohariya"
                       />
                     </div>
                     <div className="mt-4 md:hidden ps-5 md:ps-0 review-author">
@@ -210,12 +210,12 @@ const Reviews = () => {
                   </div>
                   <div className="review_content">
                     <div className="review_content-text">
-                      “Atlassian staff working at home have benefitted from the
-                      Krisp service since early in the pandemic. Since our Team
-                      Anywhere announcement, we have sought ways to make remote
-                      and hybrid working more effective, and Krisp's ability to
-                      screen background noise from calls and recordings has been
-                      invaluable to many staff."
+                      &ldquo;Atlassian staff working at home have benefitted
+                      from the Krisp service since early in the pandemic. Since
+                      our Team Anywhere announcement, we have sought ways to
+                      make remote and hybrid working more effective, and
+                      Krisp&apos;s ability to screen background noise from calls
+                      and recordings has been invaluable to many staff.&rdquo;
                     </div>
                     <div className="mt-4 md:block hidden">
                       <strong>Kanish Mohariya</strong>
@@ -232,14 +232,14 @@ const Reviews = () => {
           <div className="reviews_scores max-w-screen-lg md:px-4 mx-auto mt-32 md:flex items-center justify-between">
             <div className="ratings flex md:items-start flex-col items-center">
               <h4 className="mb-4 reviews-subheading text-blue-500">
-                Customers love krisp
+                Customers love Krisp
               </h4>
               <Image
                 width={154}
                 height={43}
                 sizes="100vw"
                 src="https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_g2_lg.svg"
-                alt=""
+                alt="G2 logo"
               />
               <div className="rating_stars mt-4">
                 <Image
@@ -247,14 +247,14 @@ const Reviews = () => {
                   height={33}
                   sizes="100vw"
                   src="https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_rating.svg"
-                  alt=""
+                  alt="Rating stars"
                 />
                 <div className="number-of-reviews-text mt-1">
-                  543 reviews (4.8 out of 5){" "}
+                  543 reviews (4.8 out of 5)
                 </div>
               </div>
             </div>
-            <div className="scores md:flex-row  flex flex-col">
+            <div className="scores md:flex-row flex flex-col">
               <div className="score">
                 <div className="score_number mb-5 mx-auto">
                   <strong className="text-blue-500 rating-number-text">
@@ -287,7 +287,7 @@ const Reviews = () => {
             </div>
           </div>
           <div className="text-center reviews-link text-blue-500 mt-12">
-            <Link href={"#"}>Read more user reviews</Link>
+            <Link href="#">Read more user reviews</Link>
           </div>
         </div>
       </div>

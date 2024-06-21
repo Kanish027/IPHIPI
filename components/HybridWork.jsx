@@ -30,7 +30,12 @@ const HybridWork = () => {
         </Link>
       </div>
       <div>
-        <Image src={"/img_use_case_hybrid.png"} width={432} height={379} />
+        <Image
+          alt=""
+          src={"/img_use_case_hybrid.png"}
+          width={432}
+          height={379}
+        />
       </div>
     </div>
   );

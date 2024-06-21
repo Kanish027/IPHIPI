@@ -6,9 +6,9 @@ const SdkAndDevelopers = () => {
   return (
     <div className="use_cases_content_inner flex md:flex-row flex-col justify-between py-8 md:px-12 px-5">
       <div className="content">
-        <div className="mb-4 subtitle">SDK and Developers </div>
+        <div className="mb-4 subtitle">SDK and Developers</div>
         <p className="font-light learn_more_text mb-4">
-          Effortlessly embed Krisp's features into your product, setting it
+          Effortlessly embed Krisp&apos;s features into your product, setting it
           apart in the market by delivering exceptional value to your users.
         </p>
         <ul>
@@ -30,7 +30,12 @@ const SdkAndDevelopers = () => {
         </Link>
       </div>
       <div>
-        <Image src={"/img_use_case_sdk.png"} width={432} height={379} />
+        <Image
+          src={"/img_use_case_sdk.png"}
+          width={432}
+          height={379}
+          alt="SDK and Developers use case illustration"
+        />
       </div>
     </div>
   );

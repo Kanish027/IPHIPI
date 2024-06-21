@@ -32,6 +32,7 @@ const UseCase = () => {
       </div>
       <div>
         <Image
+          alt=""
           src={"/img_use_case_professional.png"}
           width={432}
           height={379}

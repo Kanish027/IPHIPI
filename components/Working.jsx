@@ -66,7 +66,7 @@ const Working = () => {
                       sizes="100vw"
                       style={{ width: "100%", height: "auto" }}
                       src="/img_benefit_echo.png"
-                      alt=""
+                      alt="Illustration showing Krisp installation process"
                     />
                   </AccordionBody>
                 </Accordion>
@@ -82,7 +82,7 @@ const Working = () => {
                     Krisp offers a seamless setup experience without the need
                     for extra integrations, add-ons, or bots. Simply select
                     Krisp Microphone and Krisp Speaker in your conferencing app
-                    settings, and we'll handle the rest.
+                    settings, and we&apos;ll handle the rest.
                   </AccordionBody>
                   <AccordionBody className="md:hidden">
                     <Image
@@ -91,7 +91,7 @@ const Working = () => {
                       sizes="100vw"
                       style={{ width: "100%", height: "auto" }}
                       src="/img_benefit_nc.png"
-                      alt=""
+                      alt="Illustration showing Krisp configuration process"
                     />
                   </AccordionBody>
                 </Accordion>
@@ -105,9 +105,10 @@ const Working = () => {
                   </AccordionHeader>
                   <AccordionBody className="learn_more_text">
                     Once Krisp is integrated with your desktop or web-based app,
-                    you're unstoppable! Experience unparalleled audio clarity,
-                    complemented by auto-transcriptions, and AI generated
-                    meeting summaries and action items for all your meetings.
+                    you&apos;re unstoppable! Experience unparalleled audio
+                    clarity, complemented by auto-transcriptions, and AI
+                    generated meeting summaries and action items for all your
+                    meetings.
                   </AccordionBody>
                   <AccordionBody className="md:hidden">
                     <Image
@@ -116,7 +117,7 @@ const Working = () => {
                       sizes="100vw"
                       style={{ width: "100%", height: "auto" }}
                       src="/img_benefit_bg_voice.png"
-                      alt=""
+                      alt="Illustration showing Krisp productivity features"
                     />
                   </AccordionBody>
                 </Accordion>
@@ -131,7 +132,7 @@ const Working = () => {
                     sizes="100vw"
                     style={{ width: "100%", height: "auto" }}
                     src="/img_benefit_echo.png"
-                    alt=""
+                    alt="Illustration showing Krisp installation process"
                   />
                 </>
               )) ||
@@ -143,7 +144,7 @@ const Working = () => {
                       sizes="100vw"
                       style={{ width: "100%", height: "auto" }}
                       src="/img_benefit_nc.png"
-                      alt=""
+                      alt="Illustration showing Krisp configuration process"
                     />
                   </>
                 )) ||
@@ -155,7 +156,7 @@ const Working = () => {
                       sizes="100vw"
                       style={{ width: "100%", height: "auto" }}
                       src="/img_benefit_bg_voice.png"
-                      alt=""
+                      alt="Illustration showing Krisp productivity features"
                     />
                   </>
                 ))}
