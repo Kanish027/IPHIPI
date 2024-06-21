@@ -19,11 +19,11 @@ export default function HomePage() {
       <Benchmark />
       <Comparison />
       <PopularBrands />
-      <Working />
+      {/* <Working /> */}
       <AppDemo />
-      <UseCases />
-      <Reviews />
-      <SupportedApps />
+      {/* <UseCases /> */}
+      {/* <Reviews /> */}
+      {/* <SupportedApps /> */}
       <Last />
     </>
   );
